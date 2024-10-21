@@ -1,6 +1,6 @@
 # Network Intrusion Detection System
 
-This project demonstrates the full process of training, testing, and optimizing various machine learning models, including Decision Trees, K-Nearest Neighbors (KNN), Logistic Regression, Random Forest, Naive Bayes, Support Vector Machines (SVM), and deep learning models such as CNN, using a tabular dataset.
+This project demonstrates the full process of training, testing, and optimizing various machine learning models, including Decision Trees, K-Nearest Neighbors (KNN), Logistic Regression, Random Forest, Naive Bayes, Support Vector Machines (SVM), using a tabular dataset.
 
 ## Table of Contents
 
